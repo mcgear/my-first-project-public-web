@@ -1,0 +1,21 @@
+{
+  "name": "@milehighjackal/my-first-project-public-web",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "npm version patch && npm publish --access public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milehighjackal/my-first-project-public-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milehighjackal/my-first-project-public-web/issues"
+  },
+  "homepage": "https://github.com/milehighjackal/my-first-project-public-web#readme"
+}
